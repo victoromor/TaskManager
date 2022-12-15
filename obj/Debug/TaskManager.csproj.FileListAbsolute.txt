@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Tasks\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\hp\Desktop\Tasks\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\hp\Desktop\Tasks\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\hp\Desktop\Tasks\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Tasks\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Tasks\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Tasks\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\hp\Desktop\Tasks\TaskManager\obj\Debug\TaskManager.pdb
